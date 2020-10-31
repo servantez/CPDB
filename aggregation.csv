@@ -1,4 +1,4 @@
-original_category,new_category,frequency,lda_model
+source,target,value,provincia
 Domestic,topic_0,156,model_0
 Use Of Force,topic_0,644,model_0
 Conduct Unbecoming (Off-Duty),topic_0,38,model_0
